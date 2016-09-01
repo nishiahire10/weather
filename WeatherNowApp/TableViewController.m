@@ -121,7 +121,9 @@
             
             
         }
-        //NSLog(@"%@",[_weatherarray objectAtIndex:2]);
+        
+        
+        
         [self.tableView reloadData];
         
     }];
